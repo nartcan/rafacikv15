@@ -3,19 +3,19 @@
     <div class="container">
 
       <div class="contact-header">
-        <h1 class="contact-title">Say hi!</h1>
-        <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
+        <h1 class="contact-title">Tanışalım</h1>
+        <p>Bize yazın.</p>
       </div>
 
       <form class="contact-form" name="contact">
 
         <div class="sender-info">
           <div>
-            <label for="name" class="label">Your name</label>
+            <label for="name" class="label">Adınız</label>
             <input type="text" name="name" />
           </div>
           <div>
-            <label for="email" class="label">Your email</label>
+            <label for="email" class="label">Epostanız</label>
             <input type="email" name="email" />
           </div>
         </div>
@@ -25,7 +25,7 @@
           <textarea name="message"></textarea>
         </div>
 
-        <button class="button">Submit form</button>
+        <button class="button">Gönder</button>
 
       </form>
 
